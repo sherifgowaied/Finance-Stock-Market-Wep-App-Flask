@@ -4,4 +4,4 @@ Small stock trading WebApp  buying, selling and quoting stock prices with RealTi
 
 ## Home Page
 
-<img src="https://i.imgur.com/FcHbHp6.png" width="900px"/>
+<img src="https://i.imgur.com/FcHbHp6.png" width="1000px"/>
