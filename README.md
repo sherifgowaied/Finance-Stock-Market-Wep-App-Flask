@@ -16,3 +16,8 @@ Small stock trading WebApp  buying, selling and quoting stock prices with RealTi
 <img src="https://i.imgur.com/TP3K1gH.png" width="1000px"/>
 
 
+
+## how to start
+pip3 install requirements.txt
+.env =>set STOCK_API varriable by getting your api from iex (tradding platform)
+
