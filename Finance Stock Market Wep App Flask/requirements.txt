@@ -1,0 +1,5 @@
+cs50
+Flask
+Flask-Session
+In terminal before start
+export API_KEY=pk_898d7876222540aaa2fc3c75cd71462c
