@@ -18,6 +18,6 @@ Small stock trading WebApp  buying, selling and quoting stock prices with RealTi
 
 
 ## how to start
-pip3 install requirements.txt
-.env =>set STOCK_API varriable by getting your api from iex (tradding platform)
+pip3 install requirements.txt </br>
+.env =>set STOCK_API varriable by getting your api from iex (tradding platform)</br>
 
