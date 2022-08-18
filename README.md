@@ -9,7 +9,7 @@ Small stock trading WebApp  buying, selling and quoting stock prices with RealTi
 ### Transaction History
 <img src="https://i.imgur.com/4TulWBO.png" width="1000px"/>
 
-### Quote about stock Price iex Api
+### Quote about stock Prices iex Api
 <img src="https://i.imgur.com/nzMSBxe.png" width="1000px"/>
 
 ### Login
